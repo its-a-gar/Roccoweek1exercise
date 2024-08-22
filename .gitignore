@@ -162,5 +162,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-starer content ignore
+#starer content ignore
 Content/Starter/Content/*
